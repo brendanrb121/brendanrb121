@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning software development
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me brendanrboyd@gmail.com
+- 📫 How to reach me brendanrb121ail.com
 
 <!---
 brendanrb121/brendanrb121 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
